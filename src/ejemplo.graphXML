@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="d16" for="edge" attr.name="length" attr.type="string"/>
+<key id="d9" for="node" attr.name="lat" attr.type="string"/>
+<key id="d8" for="node" attr.name="lon" attr.type="string"/>
+<key id="d7" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d6" for="node" attr.name="x" attr.type="string"/>
+<key id="d5" for="node" attr.name="y" attr.type="string"/>
+<key id="d4" for="node" attr.name="osmid_original" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2022-07-06 20:53:41</data>
+<data key="d1">OSMnx 1.2.1</data>
+<data key="d2">+proj=utm +zone=30 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs</data>
+<data key="d3">True</data>
+<node id="0">
+  <data key="d4">253849818</data>
+  <data key="d5">4281979.7992614</data>
+  <data key="d6">402066.77230105666</data>
+  <data key="d7">4</data>
+  <data key="d8">-4.1259222</data>
+  <data key="d9">38.6810053</data>
+</node>
+<node id="1">
+  <data key="d4">6351604218</data>
+  <data key="d5">4281981.588339582</data>
+  <data key="d6">401978.0843951096</data>
+  <data key="d7">3</data>
+  <data key="d8">-4.1269419</data>
+  <data key="d9">38.6810116</data>
+</node>
+<node id="2">
+  <data key="d4">1456347757</data>
+  <data key="d5">4281962.501450297</data>
+  <data key="d6">402189.32889049116</data>
+  <data key="d7">3</data>
+  <data key="d8">-4.124511</data>
+  <data key="d9">38.680863</data>
+</node>
+<node id="3">
+  <data key="d4">[253849855, 1674792740, 1674792681, 1674792738]</data>
+  <data key="d6">403188.6293784296</data>
+  <data key="d5">4282608.022954421</data>
+  <data key="d7">0</data>
+</node>
+<node id="4">
+  <data key="d4">253850730</data>
+  <data key="d5">4282661.818376402</data>
+  <data key="d6">403193.7769153467</data>
+  <data key="d7">5</data>
+  <data key="d8">-4.1130627</data>
+  <data key="d9">38.6872744</data>
+</node>
+<node id="5">
+  <data key="d4">253849903</data>
+  <data key="d5">4284351.731464274</data>
+  <data key="d6">403104.9739273573</data>
+  <data key="d7">4</data>
+  <data key="d8">-4.1143198</data>
+  <data key="d9">38.702491</data>
+</node>
+<node id="6">
+  <data key="d4">1674466939</data>
+  <data key="d5">4284393.75667175</data>
+  <data key="d6">403136.44609664474</data>
+  <data key="d7">3</data>
+  <data key="d8">-4.1139638</data>
+  <data key="d9">38.7028731</data>
+</node>
+<node id="7">
+  <data key="d4">896386880</data>
+  <data key="d5">4284350.863222151</data>
+  <data key="d6">403068.68830043264</data>
+  <data key="d7">4</data>
+  <data key="d8">-4.1147369</data>
+  <data key="d9">38.7024792</data>
+</node>
+<edge source="0" target="1" id="0">
+  <data key="d16">7</data>
+</edge>
+<edge source="0" target="5" id="0">
+  <data key="d16">3</data>
+</edge>
+<edge source="1" target="2" id="0">
+  <data key="d16">6</data>
+</edge>
+<edge source="1" target="6" id="0">
+  <data key="d16">1</data>
+</edge>
+<edge source="3" target="4" id="0">
+  <data key="d16">9</data>
+</edge>
+<edge source="3" target="6" id="0">
+  <data key="d16">2</data>
+</edge>
+<edge source="3" target="7" id="0">
+  <data key="d16">6</data>
+</edge>
+<edge source="4" target="5" id="0">
+  <data key="d16">8</data>
+</edge>
+<edge source="5" target="3" id="0">
+  <data key="d16">4</data>
+</edge>
+<edge source="6" target="7" id="0">
+  <data key="d16">8</data>
+</edge>
+</graph></graphml>
